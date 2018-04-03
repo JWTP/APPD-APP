@@ -1,4 +1,4 @@
-package com.example.jwtay.apdd_app;
+package com.example.maarten.apdd_app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.jwtay.apdd_app", appContext.getPackageName());
+        assertEquals("com.example.maarten.apdd_app", appContext.getPackageName());
     }
 }

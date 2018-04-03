@@ -1,4 +1,4 @@
-package com.example.jwtay.apdd_app;
+package com.example.maarten.apdd_app;
 
 import org.junit.Test;
 
